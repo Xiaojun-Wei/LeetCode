@@ -9,7 +9,7 @@ class Solution:
     def heightChecker(self, heights):
         # heights = [1,1,4,2,1,3]
         differ = 0
-        heights_num = [0]*max(heights)
+        heights_num = [0]*max(heights) # use max() here, not len()
         heights_sorted = list()
         for height in heights:
             heights_num[height-1] += 1 
