@@ -55,7 +55,6 @@ public int search(int nums[], int start, int end, int target) {
 }
 ```
 
-
 ## LeetCode ##
 2023-01-27
 - 33.搜索旋转排序数组 Search in Rotated Sorted Array (Medium, Array, Python)
@@ -63,3 +62,10 @@ public int search(int nums[], int start, int end, int target) {
 - 69.x的平方根 Sqrt(x) (Easy, Array, Python)
 - 367.有效的完全平方数 Valid Perfect Square (Easy, Array, Python)
 - 704.二分查找 Binary Search (Easy, Array, Java)
+
+2023-01-28
+- 34.在排数组中查找元素的第一个和最后一个位置 Find First and Last Position of Element in Sorted Array
+- 162. Find Peak Element
+- 74.
+- 540.
+- 744.
