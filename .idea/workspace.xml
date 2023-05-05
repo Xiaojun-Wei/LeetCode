@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f150306-b62a-4fff-97bd-a5bd4fedbce6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/array/26-删除排序数组中的重复项.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/two-pointers/27-移除元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/two-pointers/283-移动零.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/58-最后一个单词的长度.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/1051.高度检查器.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/1051-高度检查器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/485.最大连续-1-的个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/485-最大连续-1-的个数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/387.字符串中的第一个唯一字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/387-字符串中的第一个唯一字符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list/141-环形链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list/237-删除链表中的节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list/876-链表的中间节点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
       <recent name="$PROJECT_DIR$/array/two-pointers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.283-移动零">
+  <component name="RunManager" selected="Python.876-链表的中间节点">
     <configuration name="26-删除排序数组中的重复项" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,8 +145,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="876-链表的中间节点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list/876-链表的中间节点.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.876-链表的中间节点" />
         <item itemvalue="Python.283-移动零" />
         <item itemvalue="Python.27-移除元素" />
         <item itemvalue="Python.58-最后一个单词的长度" />
@@ -167,7 +187,8 @@
       <updated>1681736457836</updated>
       <workItem from="1681736460366" duration="1479000" />
       <workItem from="1682233028511" duration="604000" />
-      <workItem from="1682737086771" duration="10073000" />
+      <workItem from="1682737086771" duration="11184000" />
+      <workItem from="1683293139371" duration="4067000" />
     </task>
     <servers />
   </component>
@@ -204,6 +225,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$27_.coverage" NAME="27-移除元素 Coverage Results" MODIFIED="1682760631913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array/two-pointers" />
     <SUITE FILE_PATH="coverage/LeetCode$283_.coverage" NAME="283-移动零 Coverage Results" MODIFIED="1682860786057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array/two-pointers" />
+    <SUITE FILE_PATH="coverage/LeetCode$876_.coverage" NAME="876-链表的中间节点 Coverage Results" MODIFIED="1683297141314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
     <SUITE FILE_PATH="coverage/LeetCode$26_.coverage" NAME="26-删除排序数组中的重复项 Coverage Results" MODIFIED="1681736775921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/LeetCode$58_.coverage" NAME="58-最后一个单词的长度 Coverage Results" MODIFIED="1682758884771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string" />
   </component>
