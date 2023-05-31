@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f150306-b62a-4fff-97bd-a5bd4fedbce6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/linked_list/141-环形链表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list/237-删除链表中的节点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list/876-链表的中间节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash_table/217-存在重复元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list/160-交叉链表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +187,9 @@
       <workItem from="1681736460366" duration="1479000" />
       <workItem from="1682233028511" duration="604000" />
       <workItem from="1682737086771" duration="11184000" />
-      <workItem from="1683293139371" duration="4067000" />
+      <workItem from="1683293139371" duration="5645000" />
+      <workItem from="1684901544186" duration="3756000" />
+      <workItem from="1685355624941" duration="802000" />
     </task>
     <servers />
   </component>
